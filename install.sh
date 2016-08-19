@@ -1,9 +1,9 @@
 #!/bin/sh
 # @author David Spreekmeester
-# @url https://github.com/aapit
+# @url https://github.com/aapit/osx-install-script
 # PΞɌSʘNΛL ʘSX PɌʘVISIʘNING SCɌIPT
 
-# 1. Make this file executable by running: chmod +x install.sh
+# ! Make this file executable by running: chmod +x install.sh
 
 # Install Xcode command line tools
 xcode-select --install

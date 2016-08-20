@@ -43,12 +43,7 @@ brew install caskroom/cask/brew-cask
 # Tap into alternate versions of apps (e.g. Chrome Canary)
 brew tap caskroom/versions
 
-# Install cask applications
-
-# Vagrant for Roots Trellis, deployment for Bedrock Wordpress
-brew cask install vagrant
-vagrant plugin install vagrant-bindfs
-vagrant plugin install vagrant-hostmanager
+# Install cask applications __________________________
 
 # Virtualbox for Roots Trellis, deployment for Bedrock Wordpress
 brew cask install virtualbox

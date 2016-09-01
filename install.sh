@@ -31,6 +31,10 @@ brew install nmap
 brew install mysql
 brew install phpunit
 brew install httpie
+brew install wp-cli
+
+# Kubernetes
+brew install kubectl
 
 # For GPG signing
 brew install gnupg gnupg2 gpg-agent pinentry-mac

@@ -33,6 +33,9 @@ brew install phpunit
 brew install httpie
 brew install wp-cli
 
+# For working remotely by SSL
+brew install osxfuse
+
 # Kubernetes
 brew install kubectl
 
@@ -84,10 +87,12 @@ brew cask install steam
 brew cask install airfoil
 brew cask install hazel
 brew cask install caffeine
-brew cask install bittorrent-sync
+#brew cask install bittorrent-sync # is nu Resilio, naam checken
 brew cask install vmware-fusion
 brew cask install sequel-pro
 brew cask install paw
+# gcloud client e.d. voor Kubernetes / Docker hosting
+brew cask install google-cloud-sdk
 
 # Don't think I need these after all (July 2016)
 # brew cask install gpgtools

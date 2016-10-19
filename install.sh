@@ -32,12 +32,10 @@ brew install mysql
 brew install phpunit
 brew install httpie
 brew install wp-cli
+brew install vault
 
 # For working remotely by SSL
 brew install osxfuse
-
-# Kubernetes
-brew install kubectl
 
 # For GPG signing
 brew install gnupg gnupg2 gpg-agent pinentry-mac

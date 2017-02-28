@@ -78,14 +78,13 @@ brew cask install little-snitch
 brew cask install path-finder
 brew cask install slack
 brew cask install harvest
-brew cask install private-internet-access
 brew cask install knox
 brew cask install bartender
 brew cask install steam
 brew cask install airfoil
 brew cask install hazel
 brew cask install caffeine
-#brew cask install bittorrent-sync # is nu Resilio, naam checken
+brew cask install resilio-sync
 brew cask install vmware-fusion
 brew cask install sequel-pro
 brew cask install paw

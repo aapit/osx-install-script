@@ -64,7 +64,6 @@ brew cask install virtualbox
 brew cask install alfred
 brew cask install controlplane
 brew cask install dropbox
-brew cask install firefox
 brew cask install macvim
 brew cask install spotify
 brew cask install iterm2
@@ -135,6 +134,9 @@ chsh -s /usr/local/bin/fish
 # brew cask install adium
 # brew install ios-webkit-debug-proxy
 
+# april 2017: I no longer install Firefox through Cask,
+# since the 1password extension needs it to be in ~?/Applications
+# brew cask install firefox
 
 # Put settings and stuff back into place
 # This could only be done when Dropbox is installed and the files are synced!

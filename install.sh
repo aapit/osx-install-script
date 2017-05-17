@@ -33,6 +33,7 @@ brew install phpunit
 brew install httpie
 brew install wp-cli
 brew install vault
+brew install moreutils
 
 # For working remotely by SSL
 brew install osxfuse
@@ -119,6 +120,7 @@ sudo gem install scss-lint
 sudo gem install semver
 sudo gem install capistrano
 sudo gem install travis
+sudo gem install docker-sync
 
 brew install fish
 

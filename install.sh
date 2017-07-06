@@ -78,7 +78,6 @@ brew cask install little-snitch
 brew cask install path-finder
 brew cask install slack
 brew cask install harvest
-brew cask install knox
 brew cask install bartender
 brew cask install steam
 brew cask install airfoil

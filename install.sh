@@ -34,6 +34,7 @@ brew install httpie
 brew install wp-cli
 brew install vault
 brew install moreutils
+brew install htop
 
 # For working remotely by SSL
 brew install osxfuse
@@ -69,7 +70,6 @@ brew cask install macvim
 brew cask install spotify
 brew cask install iterm2
 brew cask install vlc
-brew cask install google-drive
 brew cask install skype
 brew cask install nvalt
 brew cask install torbrowser
